@@ -9,4 +9,4 @@
 > $ cd learngit  
 > $ pwd   
 /Users/michael/learngit  
-pwd用于显示当前目录，learngit为设置的版本库名字  
+*pwd用于显示当前目录，learngit为设置的版本库名字* 
